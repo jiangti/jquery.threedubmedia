@@ -10,9 +10,5 @@
     },
     "dependencies": {
         "jquery": "1.7.2"
-    },
-    "main": [
-        "event.drag/jquery.event.drag.js",
-        "event.drop/jquery.event.drop.js"
-    ]
+    }
 }
